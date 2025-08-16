@@ -7,6 +7,7 @@ export * from "./qwerttvv_bj_iptv"
 export * from "./joevess_iptv"
 export * from "./cymz6_lives"
 export * from "./ottrrs_iptv"
+export * from "./news_channels"
 export * from "./utils"
 
 import {
@@ -19,7 +20,8 @@ import {
     qwerttvv_bj_iptv_sources,
     joevess_iptv_sources,
     cymz6_lives_sources,
-    ottrrs_sources
+    ottrrs_sources,
+    news_sources
 } from "."
 
 export const sources = [
@@ -32,5 +34,6 @@ export const sources = [
     ...iptv_org_stream_sources,
     ...epg_pw_sources,
     ...qwerttvv_bj_iptv_sources,
-    ...ottrrs_sources
+    ...ottrrs_sources,
+    ...news_sources
 ]
