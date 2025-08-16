@@ -55,7 +55,7 @@ export const news_sources: TSources = [
     {
         name: "News Channels",
         f_name: "news",
-        url: "https://raw.githubusercontent.com/su469843/iptv-sources/main/news",
+        url: "https://raw.githubusercontent.com/su469843/iptv-sources/main/src/sources/news_channels.ts",
         filter: news_filter
     }
 ];
