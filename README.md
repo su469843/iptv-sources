@@ -62,6 +62,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 129 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 129 | - |
 | ottrrs IPTV | [ottrrs.m3u](/ottrrs.m3u) <br> [ottrrs.txt](/txt/ottrrs.txt) | [List for ottrrs IPTV](/list/ottrrs.list) | update failed | ✅ |
+| News Channels | [news.m3u](/news.m3u) <br> [news.txt](/txt/news.txt) | [List for News Channels](/list/news.list) | update failed | ✅ |
 
 ## EPG
 
@@ -73,7 +74,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Sat Aug 16 2025 10:54:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 16 2025 11:10:32 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
