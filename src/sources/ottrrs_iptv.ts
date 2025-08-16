@@ -1,4 +1,5 @@
-import { ISource } from './utils';
+import { is_filted_channels, collectM3uSource, get_channel_id } from "../utils"
+import { converter, handle_m3u, ISource, TSources } from "./utils"
 
 const content = `#EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 group-title="央视频道",CCTV-1 综合
@@ -182,11 +183,47 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="地方频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8`;
 
-export const ottrrs: ISource = {
-  name: 'ottrrs IPTV',
-  f_name: 'ottrrs',
-  url: 'http://ottrrs.hl.chinamobile.com',
-  filter: (raw: string) => [content, 0]
-};
+export const ottrrs_filter: ISource["filter"] = (
+    raw,
+    caller,
+    collectFn
+): [string, number] => {
+    const rawArray = handle_m3u(content)
+    const invalidExp = /\#EXTVLCOPT:/
 
-export default ottrrs;
+    const arr = rawArray.filter((r) => !invalidExp.test(r))
+
+    let sourced: string[] = []
+    let result = [arr[0]]
+
+    for (let i = 1; i < arr.length; i += 2) {
+        const id = get_channel_id(arr[i])
+
+        if (is_filted_channels(id.trim())) {
+            continue
+        }
+
+        if (caller === "normal" && collectFn) {
+            collectM3uSource(arr[i], arr[i + 1], collectFn)
+        }
+
+        if (!sourced.includes(id)) {
+            sourced.push(id)
+            result.push(arr[i].trim())
+            result.push(arr[i + 1])
+        }
+    }
+
+    return [result.join("\n"), (result.length - 1) / 2]
+}
+
+export const ottrrs_sources: TSources = [
+    {
+        name: "ottrrs IPTV",
+        f_name: "ottrrs",
+        url: "http://ottrrs.hl.chinamobile.com",
+        filter: ottrrs_filter
+    }
+];
+
+export default ottrrs_sources;

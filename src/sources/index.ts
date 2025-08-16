@@ -19,7 +19,7 @@ import {
     qwerttvv_bj_iptv_sources,
     joevess_iptv_sources,
     cymz6_lives_sources,
-    ottrrs
+    ottrrs_sources
 } from "."
 
 export const sources = [
@@ -32,5 +32,5 @@ export const sources = [
     ...iptv_org_stream_sources,
     ...epg_pw_sources,
     ...qwerttvv_bj_iptv_sources,
-    ottrrs,
+    ...ottrrs_sources
 ]
