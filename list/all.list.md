@@ -812,7 +812,7 @@
 | 806 | [BD]mcot | stream1.freetv.fun | <https://stream1.freetv.fun/5b7b5b7f821aadeff591b8e215c5265678e2974a6048bb842f544a3ef5522370.m3u8> |
 | 807 | [HD]wdr fernsehen | stream1.freetv.fun | <https://stream1.freetv.fun/b44363530ca30606ff21c06abc07c0b3be20ccd2f33a9f607a568d1104dfa6b5.m3u8> |
 | 808 | [HD]metro tv | stream1.freetv.fun | <https://stream1.freetv.fun/3b5b80f75f15d079d511285fbe9b8db8fbbe271fcab79ccda003554eba0ff070.m3u8> |
-| 809 | [SD]msg | stream1.freetv.fun | <https://stream1.freetv.fun/2f050819e4128b3f419f8612949ec4bd3808aca5d246d4c4fa62c1c80eb1ab99.ctv> |
+| 809 | [HD]msg | stream1.freetv.fun | <https://stream1.freetv.fun/2f050819e4128b3f419f8612949ec4bd3808aca5d246d4c4fa62c1c80eb1ab99.ctv> |
 | 810 | [HD]mnc | stream1.freetv.fun | <https://stream1.freetv.fun/932ec0b9444fbc178552ba490b29a47b08da21adc62f47fc3bfadce83e7ecc89.m3u8> |
 | 811 | [HD]mun2tv | stream1.freetv.fun | <https://stream1.freetv.fun/58f526f560999347e98fa3c6fc82792c4e0c7308400f71746adbea3d0d244252.m3u8> |
 | 812 | [VGA]job tv | stream1.freetv.fun | <https://stream1.freetv.fun/acb4a9f7dccb170ae8868bf8f16a069221e8e4be05de0f48afcdfeb97a38793a.m3u8> |
@@ -2018,4 +2018,4 @@
 | 2012 | [BD]龙华经典 *c | stream1.freetv.fun | <https://stream1.freetv.fun/408e21b8a132cac58fbd987fc7b14fd691eda7c092cc617f9196e1d9a8028636.ctv> |
 | 2013 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.ctv> |
 
-Updated at **Thu Aug 28 2025 04:28:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 28 2025 06:36:12 GMT+0000 (Coordinated Universal Time)**
