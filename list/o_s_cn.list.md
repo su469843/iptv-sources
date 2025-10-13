@@ -444,4 +444,4 @@
 | 438 | ST Rembo TV | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8> |
 | 439 | CCTV-4 Europe | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/cctv4/playlist.m3u8> |
 
-Updated at **Mon Oct 13 2025 12:51:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 13 2025 14:26:29 GMT+0000 (Coordinated Universal Time)**
