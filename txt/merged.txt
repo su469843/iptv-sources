@@ -245,6 +245,7 @@ Entertainment,#genre#
 [BD]al_ghad_tv,https://stream1.freetv.fun/f43f201df3d69bad1a2e759eb0e01164081c8e5268f8a8a67088b95ca09cbea9.m3u8
 [BD]al_rayyan,https://stream1.freetv.fun/4201b0a5adb911f737e6ffef2e1fc214c6e4696698f37e1af0ba740b9159c3e2.m3u8
 [BD]al_shallal,https://stream1.freetv.fun/10dd239abf174e22a36f5af792eb5f5eb0d7ddf919933516cb4ce97aca1c39b0.m3u8
+[HD]al_sahat,https://stream1.freetv.fun/6f34231337b9fb986deb7f26ef30ba7af9b256d5c606a11db247d93bcbdadd7c.m3u8
 [BD]al_jadeed,https://stream1.freetv.fun/2c27f986883e60dcf74d13f804f9f4cc49da99aa614b6e98eb2821f4b16d7be3.m3u8
 [SD]alfa_ⓢ,https://stream1.freetv.fun/13473025c217b707a4e4aa7a95c65f193fde3558c4fae8a8a41b2b86872f185d.m3u8
 [BD]haunt_tv,https://stream1.freetv.fun/a3a8c1cc7fc7eeaf6671ee3b0687993db5b82d0f5ce502c6735414bd8229d8bd.m3u8
