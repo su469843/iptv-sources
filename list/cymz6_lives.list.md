@@ -13,4 +13,4 @@
 | 7 | 法制 | IPv4 直链 | <http://182.126.119.133:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 8 | 都市 | IPv4 直链 | <http://182.126.119.133:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Nov 24 2025 10:30:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 24 2025 12:55:36 GMT+0000 (Coordinated Universal Time)**
