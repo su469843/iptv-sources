@@ -12,4 +12,4 @@
 | 6 | NHK世界 | nhkwlive-ojp.akamaized.net | <https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8> |
 | 7 | Bloomberg TV | liveprodapnortheast.global.ssl.fastly.net | <https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8> |
 
-Updated at **Sat Apr 04 2026 18:52:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 04 2026 20:40:22 GMT+0000 (Coordinated Universal Time)**
