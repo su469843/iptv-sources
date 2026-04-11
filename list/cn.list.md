@@ -250,4 +250,4 @@
 | 244 | [SD]韶关新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e78fe0e158ef4e38279716a61388ad91b83f441296091cb7ba250f4cc95bc9f6.m3u8> |
 | 245 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Sat Apr 11 2026 13:13:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 11 2026 14:41:59 GMT+0000 (Coordinated Universal Time)**
