@@ -10,6 +10,7 @@ Generic,#genre#
 
 Sports,#genre#
 [HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
+[BD]siping_tv,https://stream1.freetv.fun/9a95d85ed9739dc4dcff70804d78cecce13a3a45c27bcd427bea15e32cecca1b.m3u8
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 News,#genre#
