@@ -89,8 +89,6 @@ https://stream1.freetv.fun/4e2143bf3e8f14a15f42a8850a51fe183c621a3fc614c517e36cb
 https://stream1.freetv.fun/3304d40ab080cfdc62386a8b26bd04cdbc7330f96858e3e1a69326aa4a94ed2a.m3u8
 #EXTINF:-1 tvg-name="上虞新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/10/13/large/20231013202735777838_86.png" group-title="新闻",[BD]上虞新闻综合
 https://stream1.freetv.fun/78f55f361d865fb3a113720e11fded9307bb9cb180fe731826736d2f5df8ca0b.m3u8
-#EXTINF:-1 tvg-name="中山综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_383.jpg" group-title="其它",[BD]中山综合
-https://stream1.freetv.fun/c6c10657ca1bdb9320c50ca7c7edfcb2bedac1199f9c710987c49834416fde67.m3u8
 #EXTINF:-1 tvg-name="丹东新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101014703270530_22.jpg" group-title="新闻",[VGA]东莞新闻综合
 https://stream1.freetv.fun/0e4ec0d4d0c1ee3ba02ddb214dc5cc5a5f754b50fbf81ee700f1af9d67eeb9d0.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/03/11/large/20260311054355480267_59.jpg" group-title="运动",[BD]五星体育
@@ -105,8 +103,8 @@ https://stream1.freetv.fun/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f
 https://stream1.freetv.fun/3df44f3f96f7199bc3d25e1849f49cdc40d8edba069faabd70d8b5df7a389d36.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225428953453_32.jpg" group-title="儿童",[SD]优漫卡通
 https://stream1.freetv.fun/4f3e660db4b75f218546c35fbdf55813ca1cd497ebcaa5fa4d873cff81c402f5.m3u8
-#EXTINF:-1 tvg-name="内江科教生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142304073171_20.png" group-title="综合",[HD]内江科教
-rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
+#EXTINF:-1 tvg-name="内江科教生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142304073171_20.png" group-title="综合",[HD]内江科教生活
+https://stream1.freetv.fun/69d200fb9259c32355dbc3bddea43915a3fd6ae3b4c1ae7fe98a98060e2ad797.m3u8
 #EXTINF:-1 tvg-name="内江综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142242811328_18.png" group-title="综合",[VGA]内江综合
 https://stream1.freetv.fun/acdb0c67bd1e814d27ae5f8d31376a50f348b0a028df08c99c1496fea63f3cb5.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="综合",[BD]内蒙古卫视
@@ -305,6 +303,8 @@ https://stream1.freetv.fun/5e94f192b45e444b65af0a66bb0a2d1f48dc8aacdc77c29e74ec0
 https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.ctv
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",[BD]江苏卫视
 https://stream1.freetv.fun/4f24c45e978db16f03f9526a99b66684f76c164081454f9fb06fb75f3909339d.m3u8
+#EXTINF:-1 tvg-name="江西少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/12/large/20211012201424902703_24.png" group-title="儿童",[HD]江西少儿家庭
+https://stream1.freetv.fun/e96d8291fd582b22cd23c2fb27ef3544c0bea6408d44673f0e8f6afb21e068e9.m3u8
 #EXTINF:-1 tvg-name="江西教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144058195235_70.jpg" group-title="其它",[SD]江西教育
 https://stream1.freetv.fun/40c837a803a4ee4624f4d75fc4bd7c32835e47f7e6db647cc8219eaf49d768dd.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/12/large/20211012202031059221_51.png" group-title="新闻",[HD]江西新闻
@@ -395,8 +395,6 @@ https://stream1.freetv.fun/bf77ceccb17724760ad5d259c43e86653db154ba264516211f1f8
 https://stream1.freetv.fun/172fb9034987ad73f5f3287b85b479a6f1fee61d31c89ac3a2275282187b7a7a.m3u8
 #EXTINF:-1 tvg-name="无锡都市资讯" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_301.jpg" group-title="其它",[HD]无锡都市资讯
 https://stream1.freetv.fun/ce722dc2106994ddbf9bb2061b73284ff3295740bffcb50650020dd432770690.m3u8
-#EXTINF:-1 tvg-name="现代教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507213333756088_57.jpg" group-title="其它",[BD]现代教育
-https://stream1.freetv.fun/cddf0dc5a9e566bcca107479fd42ecfe6ac05fa7340970d9aa72c4b8785d8c76.ctv
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg" group-title="综合",[BD]甘肃卫视
 https://stream1.freetv.fun/62fc00b17e85a0f05bc7442ba4c507d0d9ed83d0e4c628543a0c8cc0f3c0e79e.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/10/29/large/20241029102325633689_90.png" group-title="综合",[BD]生活时尚
