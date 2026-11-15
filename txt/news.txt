@@ -1,8 +1,0 @@
-新闻频道,#genre#
-CCTV-13_新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CGTN新闻,https://english-livebkali.cgtn.com/live/cgtn_news.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-CNN国际新闻,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_main/VIDEO_0_3564000.m3u8
-NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-Bloomberg_TV,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
